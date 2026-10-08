@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "816403449823",
+    "firebase_url": "https://dumy-9ee0a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dumy-9ee0a",
+    "storage_bucket": "dumy-9ee0a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816403449823:android:639e0056e8df9055baa66a",
+        "android_client_info": {
+          "package_name": "com.dumybookcrossing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816403449823-mac22en341ilg7lo77e3qhs15adoeqpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD8Cikz2sD1bgRy1oPLjTltDbqBlJdUIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816403449823-mac22en341ilg7lo77e3qhs15adoeqpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
